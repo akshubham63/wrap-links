@@ -1,0 +1,21 @@
+.sites{
+	background-color:#6495ED;
+	display:inline-block;
+	padding:5px;
+	margin:0 5px;
+}
+
+.sites:hover{
+	transform:scale(1.08,1.08);
+	transition:all 0.3s linear;
+}
+
+.links{
+	color:#ffffff;
+}
+
+.links:hover,
+.links:active,
+.links:focus{
+	color:#ffffff;
+};
